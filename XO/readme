@@ -1,3 +1,0 @@
-frontend = pnpm dev
-
-backend =   python main.py
